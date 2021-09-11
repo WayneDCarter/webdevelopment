@@ -1,0 +1,29 @@
+body{
+    background-color: lightsteelblue; 
+    background-image: url("plant.jpg");
+    background-size: 100%, 100%;
+}
+
+header{    
+   background-color: white; 
+   background-image: url("images/plant.jpg");
+   background-size: 100%;
+   opacity: .65; 
+   border-radius: 80px;
+   
+}
+
+img, .features{
+  height: 300px; 
+  width: 300px;
+  border-radius: 80px;
+  margin-left: auto;
+   
+}
+
+ul{
+   list-style-type: none; 
+    display: flex;
+    justify-content: space-between;  
+    padding-right: 40px; 
+}
