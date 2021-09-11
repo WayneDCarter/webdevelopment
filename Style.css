@@ -1,13 +1,14 @@
 body{
     background-color: lightsteelblue; 
     background-image: url("plant.jpg");
-    background-size: 100%, 100%;
+    background-size: 100%, 10%;
+    
 }
 
 header{    
    background-color: white; 
    background-image: url("images/plant.jpg");
-   background-size: 100%;
+   background-size: 50%;
    opacity: .65; 
    border-radius: 80px;
    
@@ -26,4 +27,11 @@ ul{
     display: flex;
     justify-content: space-between;  
     padding-right: 40px; 
+}
+
+.firstdescription p {
+    background-color: Red
+    
+    
+    
 }
